@@ -1,7 +1,7 @@
 ## Hi there 👋
-I'm Parthivi
-Exploring the vast world of web development through hands-on projects and continuous learning.
-Welcome to my GitHub! 🚀
+-I'm Parthivi
+-Exploring the vast world of web development through hands-on projects and continuous learning.
+-Welcome to my GitHub! 🚀
 <!--
 **parthivipradhan/parthivipradhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working on refining my skills.
-🌱 I’m currently learning WebDev and exploring other domains too.
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/parthivi-pradhan-aba260322/), parthivipradhan@gmail.com
+-🔭 I’m currently working on refining my skills.
+-🌱 I’m currently learning WebDev and exploring other domains too.
+-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/parthivi-pradhan-aba260322/), parthivipradhan@gmail.com
