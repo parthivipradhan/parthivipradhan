@@ -18,5 +18,4 @@ Here are some ideas to get you started:
 -->
 🔭 I’m currently working on refining my skills.
 🌱 I’m currently learning WebDev and exploring other domains too.
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/parthivi-pradhan-aba260322/), 
-<a href="mailto:parthivipradhan@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/parthivi-pradhan-aba260322/), parthivipradhan@gmail.com
